@@ -1,5 +1,5 @@
 <Alloy>
 	<Window class="container">
-		<Label id="label">Hello, GIT</Label>
+		<Label id="label">Hello, Github</Label>
 	</Window>
 </Alloy>
