@@ -1,5 +1,6 @@
 function doClick(e) {
-    alert($.label.text);
+    var loginWin = Alloy.createController("LoginScreen").getView();
+    loginWin.open();
 }
 
 $.index.open();
